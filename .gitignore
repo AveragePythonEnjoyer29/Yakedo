@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Testing and development folders
+.dev/
+testing/
+
 # C extensions
 *.so
 
